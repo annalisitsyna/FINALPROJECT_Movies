@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace List_of_movies
 {
     /// <summary>
-    /// Логика взаимодействия для CheckW.xaml
+ 
     /// </summary>
     public partial class CheckW : Window
     {

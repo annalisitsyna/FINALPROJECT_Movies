@@ -20,7 +20,7 @@ using System.Data;
 namespace List_of_movies
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+   
     /// </summary>
     public partial class MainWindow : Window
     {

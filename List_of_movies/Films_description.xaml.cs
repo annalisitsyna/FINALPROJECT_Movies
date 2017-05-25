@@ -21,7 +21,7 @@ using System.Data;
 namespace List_of_movies
 {
     /// <summary>
-    /// Логика взаимодействия для Films_description.xaml
+ 
     /// </summary>
     public partial class Films_description : Window
     {
